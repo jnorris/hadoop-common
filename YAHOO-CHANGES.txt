@@ -4,7 +4,7 @@ Patches from the following Apache Jira issues have been applied
 to this release in the order indicated. This is in addition to
 the patches applied from issues referenced in CHANGES.txt.
 
-yahoo-hadoop-0.20.1-3195383007
+yahoo-hadoop-0.20.1-3195383008
 
     MAPREDUCE-1372. Fixed a ConcurrentModificationException in jobtracker.
     (Arun C Murthy via yhemanth)

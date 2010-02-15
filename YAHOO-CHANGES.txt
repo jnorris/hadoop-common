@@ -6,6 +6,10 @@ the patches applied from issues referenced in CHANGES.txt.
 
 yahoo-hadoop-0.20.9
 
+    MAPREDUCE-1476. Fix the M/R framework to not call commit for special
+    tasks like job setup/cleanup and task cleanup.
+    (Amareshwari Sriramadasu via yhemanth)
+    
     HADOOP-5879. Read compression level and strategy from Configuration for
     gzip compression. (He Yongqiang via cdouglas)
 

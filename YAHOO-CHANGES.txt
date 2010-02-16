@@ -6,6 +6,10 @@ the patches applied from issues referenced in CHANGES.txt.
 
 yahoo-hadoop-0.20.9
 
+    MAPREDUCE-1398. Fix TaskLauncher to stop waiting for slots on a TIP that 
+    is killed / failed.
+    (Amareshwari Sriramadasu via yhemanth)
+
     MAPREDUCE-1466. Save number of input files in JobConf of job.
     (Arun Murthy via yhemanth)
 

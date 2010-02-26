@@ -6,6 +6,9 @@ the patches applied from issues referenced in CHANGES.txt.
 
 yahoo-hadoop-0.20.9
 
+    HADOOP-6539. Backport documentation changes to yahoo-hadoop-0.20.
+    (Corinne Chandel and Amareshwari Sriramadasu via yhemanth)
+
     MAPREDUCE-1354. Incremental enhancements to the JobTracker for scaling
     better. (acmurthy) 
 
